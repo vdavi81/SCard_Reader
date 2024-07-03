@@ -1,0 +1,3 @@
+../Core/Src/InOut_Mod.c:10:6:iomod_ScanINs	16	static
+../Core/Src/InOut_Mod.c:17:21:iomod_Compare_Input_ste	24	static
+../Core/Src/InOut_Mod.c:35:6:iomod_UpdateOutput	16	static
